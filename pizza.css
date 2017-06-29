@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Thunderstorm';
+  src: url('Thunderstorm.ttf')  format('truetype');
+}
+
+.site-branding-name {
+  font-family: 'Thunderstorm', cursive;
+}
