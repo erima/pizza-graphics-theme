@@ -1,6 +1,6 @@
 name: Pizza Graphics Theme
 type: theme
-base theme: bartik
+base theme: clean
 description: I want pizza.
 alt text: Pizza Graphics theme.
 core: 8.x
