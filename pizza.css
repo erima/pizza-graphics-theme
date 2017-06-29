@@ -3,6 +3,6 @@
   src: url('Thunderstorm.ttf')  format('truetype');
 }
 
-.site-branding-name {
+.site-branding__name {
   font-family: 'Thunderstorm', cursive;
 }
