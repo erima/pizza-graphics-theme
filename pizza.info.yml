@@ -1,10 +1,10 @@
-name: 'Pizza Graphics Theme'
+name: Pizza Graphics Theme
 type: theme
 base theme: bartik
-description: 'I want pizza.'
-alt text: 'Pizza Graphics theme.'
+description: I want pizza.
+alt text: Pizza Graphics theme.
 core: 8.x
-package: pizza
+package: other
 hidden: false
 libraries:
-  - global.libraries.yml
+  - pizza/global-css
