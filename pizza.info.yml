@@ -1,6 +1,6 @@
 name: Pizza Graphics Theme
 type: theme
-base theme: clean
+base theme: stable
 description: I want pizza.
 alt text: Pizza Graphics theme.
 core: 8.x
